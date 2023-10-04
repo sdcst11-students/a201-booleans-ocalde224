@@ -21,15 +21,15 @@ The number is larger than 100
 """
 q1 = "what is the number:"
 print(input(q1))
-thenumberislargerthan100 = True
-thenunumberis100 = False
-thenumberissmallerthan100 = False
+Thenumberislargerthan100 = True
+Thenumberissmallerthan100 = False
+Thenumberis100 = False
 
-if thenumberislargerthan100 :
+if Thenumberislargerthan100 :
     print("the number is larger than 100")
 
-if thenunumberis100:
+if Thenumberissmallerthan100:
     print("the number is 100")
 
-if thenumberissmallerthan100:
+if Thenumberis100:
     print("the number is smaller than 100")
